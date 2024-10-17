@@ -1,10 +1,3 @@
-"""
-DSC 20 Project
-Name(s): Ishita Takkar, Aarshia Gupta
-PID(s):  A17859782, A17920554
-Sources: lectures and discussions
-"""
-
 import numpy as np
 import os
 from PIL import Image
